@@ -1,31 +1,16 @@
 # 💫 About Me:
-Hi, I’m Amir, a Computer Engineering student with a strong interest in software development and artificial intelligence.
-
-I enjoy building things that actually work, breaking them when they don’t, and then fixing them properly. My experience includes Python, C#, and working with AI and deep learning projects, especially in areas like image recognition and automation. I care more about understanding how things work under the hood than blindly using tools.
-
-I prefer clean logic, simple solutions, and code that makes sense six months later. Currently focused on strengthening my fundamentals, improving problem-solving skills, and preparing for competitive programming and real-world projects.
+I’m Amir, a Computer Engineering student interested in software development and artificial intelligence.
+I focus on writing clear, logical code and understanding how systems work rather than just making things run.
 
 When I’m not coding, I’m probably thinking about how to optimize something that didn’t need optimization in the first place.
 
 Interests:
 
-Software Development
-
-Artificial Intelligence & Deep Learning
-
-Competitive Programming
-
-Problem Solving
+Software Development | Artificial Intelligence & Deep Learning | Competitive Programming | Problem Solving 
 
 Tech Stack (so far):
 
-Python
-
-C#
-
-Basic Deep Learning workflows
-
-Git & GitHub
+Python | C# | Basic Deep Learning workflows | Git & GitHub
 
 Still learning. Still improving. Still not trusting code that “works on my machine.”
 
