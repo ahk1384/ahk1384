@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Amir, a Computer Engineering student interested in software development and artificial intelligence.
+I’m AmirHossein , a Computer Engineering student interested in software development and artificial intelligence.
 I focus on writing clear, logical code and understanding how systems work rather than just making things run.
 
 When I’m not coding, I’m probably thinking about how to optimize something that didn’t need optimization in the first place.
